@@ -33,7 +33,7 @@ Flask คือ Web Framework แบบ Lightweight (microframework)
 โดยมีกระบวนการดังนี้ 
 - เมื่อสั่งให้ app.py ทำงาน ชุดคำสั่งจะสร้างเว็บแอป ให้เรียกใช้งาน
 - เมื่อใช้งานเรียก Route ที่ได้กำหนดไว้ python จะดำเนินการตามชุดคำสั่งที่เขียนไว้ใน Route ดังกล่าว
-- จากนั้นเว็บแอบจะส่งผลลัพย์กลับมาที่ Web Browser ของผู้ใช้งาน
+- จากนั้นเว็บแอป จะส่งผลลัพย์กลับมาที่ Web Browser ของผู้ใช้งาน
 
 ---
 
@@ -66,4 +66,5 @@ Flask คือ Web Framework แบบ Lightweight (microframework)
 <p align="center">
   <img src="static/capture.png" alt="Screenshots" width="600"/>
 </p>
+
 
